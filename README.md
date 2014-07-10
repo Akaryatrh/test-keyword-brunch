@@ -1,0 +1,1 @@
+This repository is just a dummy brunch project to test the plugin keyword-brunch : https://github.com/huafu/keyword-brunch

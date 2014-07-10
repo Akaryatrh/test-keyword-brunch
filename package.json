@@ -1,0 +1,12 @@
+{
+  "author": "Sébastien Van Eyck",
+  "name": "test-keyword-brunch",
+  "description": "",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "keyword-brunch": ">= 1.0 < 1.8"
+  },
+  "devDependencies": {}
+}
